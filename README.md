@@ -1,23 +1,22 @@
-# Assignment 0 Instructions
+# Ricardo Edwards
+
 This is a template and instructions for creating your own Assignment0.
 
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
 
 ## Instructions
 
-### 1. Use the green `Template` button above to create your own github repository. 
+### 1. Use the green `Template` button above to create your own github repository.
 
 Click the green button, then click the blue "Create a new repository" button.
 
 You will be using this template to create a _new_ repository in your github.com remote workspace.
-
 
 ![Image description](/images/template.jpg)
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
 If your github handle was `petecarapetyan` and you had a dark theme this is what your Assignment0 should look like now. Please notice that green `Code` button at bottom right.
-
 
 ![Image description](/images/new.jpg)
 
@@ -26,7 +25,6 @@ If your github handle was `petecarapetyan` and you had a dark theme this is what
 ![Image description](/images/openWithGithubDesktop.jpg)
 
 ### 3. Clone this down to your local box _**inside your coders campus workspace directory**_ being very careful to place it exactly there!
-
 
 - Using github desktop is super dangerous if you don't pay attention to the folder that it clones your local repository into!!!!!
 
@@ -78,7 +76,7 @@ File path problems are very typical for most students in assignments 1 and 3. Th
 
 ## Should I repeat Assignment0?
 
-This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github! 
+This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github!
 
 You may save time, in the end, by repeating this assignment until it gets super easy and boring.
 
@@ -90,4 +88,3 @@ For example
 - Assignment0e
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
-
